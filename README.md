@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Lucas! 👋
 
-<!--
-**lloura/lloura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓️ System Analysis & Development • 🌱 Data Structures & Algorithms • 📚️ Development with Java & PHP
 
-Here are some ideas to get you started:
+- 🌱 I’m currently getting into learning more elaborate Data Structures & Algorithms using C/C++
+- 🔬 I've been experimenting with GNOME/Adwaita technologies and principles
+- 🫎 I'm also a big enthusiast of everything open-source related, and I try to contribute to projects that I believe whenever and however I can
+    * (Although I've been mostly sticking to help with translating projects, since I'm not that confident in my programming skills yet 😅🤞)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+- 🎓️ Recently Graduated in System Analysis and Development at Fatec São Caetano do Sul
+- 📚️ Currently post-graduating in Development with Java & PHP at Faculdade Libano 
+
+---
+
+## Featured Projects
+
+- [SmartStock](https://github.com/Martinelii/SmartStock-TCC) • System for automatic stock management with an emphasis on information security; originally developed as our final paper back in college
+- [Entendendo Algoritmos](https://github.com/lloura/entendendo-algoritmos) • Repository with my implementations to examples and exercises  from the book Grokking Algorithms
+- [Exercícios Neetcode](https://github.com/lloura/exercicios-neetcode) • Repository with my implementations to NeetCode exercises
+
+---
+
+## Contact me
+
+<div>
+  <a href="https://linktr.ee/llucas.lloura" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="mailto:oliverloura2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-loura-800b76230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/llucas.lloura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/llucas_lloura" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+
