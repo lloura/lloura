@@ -16,10 +16,10 @@
 
 ## Featured Projects
 
-* [L10n Portfolio](https://www.google.com/search?q=https://github.com/lloura/l10n-portfolio) • My open-source localization history, including PR descriptions and technical glossaries.
 * [SmartStock](https://github.com/Martinelii/SmartStock-TCC) • System for automatic stock management with an emphasis on information security; originally developed as our final paper back in college.
 * [Entendendo Algoritmos](https://github.com/lloura/entendendo-algoritmos) • Repository with my implementations to examples and exercises from the book Grokking Algorithms.
 * [Exercícios Neetcode](https://github.com/lloura/exercicios-neetcode) • Repository with my implementations to NeetCode exercises.
+* [L10n Portfolio](https://github.com/lloura/l10n-portfolio) • My open-source localization history, including PR descriptions and technical glossaries.
 
 ---
 
