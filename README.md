@@ -1,34 +1,35 @@
 # Hi there, I'm Lucas! 👋
 
-🎓️ System Analysis & Development • 🌱 Data Structures & Algorithms • 📚️ Development with Java & PHP
+🎓 Systems Analysis & Development • 🛡️ Information Security • 🌱 Data Structures & Algorithms
 
-- 🌱 I’m currently getting into learning more elaborate Data Structures & Algorithms using C/C++
-- 🔬 I've been experimenting with GNOME/Adwaita technologies and principles
-- 🫎 I'm also a big enthusiast of everything open-source related, and I try to contribute to projects whenever I can
-  - 🌍 I maintain an **[L10n Portfolio](https://github.com/lloura/l10n-portfolio)** to document my contributions and terminology standards for Brazilian Portuguese.
+- 💻 I’m currently refining my knowledge of Data Structures & Algorithms using **C/C++**
+- 🎨 Experimenting with **GNOME/Libadwaita** technologies and GTK development
+- 🫎 Open-source enthusiast and active contributor
+  - 🌍 I maintain an **[L10n Portfolio](https://github.com/lloura/l10n-portfolio)** documenting my open-source localization work and Brazilian Portuguese technical glossaries.
 
 <br>
 
-- 🎓️ Recently Graduated in System Analysis and Development at Fatec São Caetano do Sul
-- 📚️ Currently post-graduating in Development with Java & PHP at Faculdade Libano
+- 🎓 Graduated in **Systems Analysis and Development** at Fatec São Caetano do Sul
+- 🛡️ Undergraduate Student in **Information Security** at Fatec São Caetano do Sul
+- 📚 Post-graduate student in **Systems Development with Java & PHP** at Faculdade Líbano
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-* [SmartStock](https://github.com/Martinelii/SmartStock-TCC) • System for automatic stock management with an emphasis on information security; originally developed as our final paper back in college.
-* [Entendendo Algoritmos](https://github.com/lloura/entendendo-algoritmos) • Repository with my implementations to examples and exercises from the book Grokking Algorithms.
-* [Exercícios Neetcode](https://github.com/lloura/exercicios-neetcode) • Repository with my implementations to NeetCode exercises.
-* [L10n Portfolio](https://github.com/lloura/l10n-portfolio) • My open-source localization history, including PR descriptions and technical glossaries.
+* **[SmartStock](https://github.com/Martinelii/SmartStock-TCC)** • Automated inventory management system focused on information security; developed as our college capstone project (TCC).
+* **[Entendendo Algoritmos](https://github.com/lloura/entendendo-algoritmos)** • Solutions and exercise implementations based on the book *Grokking Algorithms*.
+* **[Exercícios Neetcode](https://github.com/lloura/exercicios-neetcode)** • My implementations and solutions for NeetCode algorithms and data structure challenges.
+* **[L10n Portfolio](https://github.com/lloura/l10n-portfolio)** • Repository tracking my open-source localization history, PR descriptions, and terminology standards.
 
 ---
 
-## Contact me
+## 📬 Connect with me
 
 <div>
-  <a href="https://linktr.ee/llucas.lloura" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href="mailto:oliverloura2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-loura-800b76230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/llucas.lloura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/llucas_lloura" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/llucas.lloura" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="mailto:oliverloura2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-loura-800b76230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/llucas.lloura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/llucas_lloura" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
